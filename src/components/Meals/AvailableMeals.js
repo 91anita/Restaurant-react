@@ -5,27 +5,27 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
-    price: 22.99,
+    name: "Veg Biryani",
+    description: "Basmati Rice and veggies",
+    price: 230.00,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
-    price: 16.5,
+    name: "Pizza",
+    description: "corn and panner",
+    price: 160.50,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
-    price: 12.99,
+    name: "Burger",
+    description: "Aloo tikki",
+    price: 79.99,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
-    price: 18.99,
+    name: "Rice Bowl",
+    description: "Healthy...and green...veggies",
+    price: 180.99,
   },
 ];
 
